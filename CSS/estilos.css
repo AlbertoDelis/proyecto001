@@ -2,13 +2,13 @@ body{
     background-color: bisque;
     text-align: center;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 1em;
     color: darkred;
 }
 
 p{
     color: black;
-    font-size: 1em;
+    font-size: 0.5em;
     font-weight: bold;
     text-align:justify;
 }
